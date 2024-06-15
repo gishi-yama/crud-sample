@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/jyukai/Downloads/FireShot/crud-sample/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/jyukai/Downloads/FireShot/crud-sample/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/jyukai/Downloads/FireShot/crud-sample/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/jyukai/Downloads/FireShot/crud-sample/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/jyukai/Downloads/FireShot/crud-sample/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/jyukai/Downloads/FireShot/crud-sample/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/jyukai/Downloads/FireShot/crud-sample/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/jyukai/Downloads/FireShot/crud-sample/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/jyukai/Downloads/FireShot/crud-sample/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
